@@ -22,6 +22,7 @@ I am currently working on update my github with personal and research projects.
 
 ## 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/meganjcaruso/)
+- 📄 [Google Scholar](https://scholar.google.com/citations?user=KCxiJd0AAAAJ&hl=en)
 
 
 
