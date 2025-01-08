@@ -16,8 +16,8 @@ I am currently working on update my github with personal and research projects.
 
 
 ## 📌 Featured Projects
-🔹 **[Eye-Mind Link](#)** – Research using eyetracking, EEG, and fNIRS.<br>
-🔹 **[Multimodal Gameplay](#)** – How can AI agents use physiological signals and interact while playing video games (be informative AND fun!).<br>
+🔹 **[Eye-Mind Link](https://dl.acm.org/doi/abs/10.1145/3678957.3685745)** – Research using eyetracking, EEG, and fNIRS.<br>
+🔹 **[Multimodal Gameplay](https://github.com/karenlstengel/multimodal-gameplay)** – How can AI agents use physiological signals and interact while playing video games (be informative AND fun!).<br>
 
 
 ## 📫 Get in Touch
