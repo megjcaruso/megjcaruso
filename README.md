@@ -10,7 +10,7 @@ I am currently working on update my github with personal and research projects.
 - 💻 **Software Development** – I am currently improving my software development skills to better integrate my background in bioengineering and cognitive science with my growing skillset in computer science
 
 
-## 🚀 My Tech Stack
+## 🚀 My Skills
 - **Languages**: Python, R, SQL
 - **Frameworks & Libraries**: TensorFlow, PyTorch, React, Node.js, Langchain
 
