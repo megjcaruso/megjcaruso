@@ -12,7 +12,7 @@ I am currently working on updating my github with personal and research projects
 
 ## 🚀 My Skills
 - **Languages**: Python, R, SQL
-- **Frameworks & Libraries**: TensorFlow, PyTorch, React, Node.js, Langchain
+- **Frameworks & Libraries**: TensorFlow, PyTorch, React, Langchain
 
 
 ## 📌 Featured Projects
