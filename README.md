@@ -1,4 +1,4 @@
-## 🦉🧠 About Me 🧪🪐
+## 🦉🧠 About Me 🧪👁️‍🗨️
 I'm a Ph.D. student in computer science and cognitive science at CU Boulder. I work on multimodal physiological systems to better understand how humans make sense of the world, and build AI agents for fun on the side.
 I am currently working on updating my github with personal and research projects.
 
